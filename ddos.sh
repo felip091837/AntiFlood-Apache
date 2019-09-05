@@ -2,7 +2,7 @@
 
 if [ $# -eq 0 ]; then
 echo -e  "+================================================================+
-|            AntiFlood Apache by felipesi                  |
+|            AntiFlood Apache by felipesi - 2017              |
 |----------------------------------------------------------------|
 |                                                                |
 |    USE: nohup $0 MAX_REQ TIME_ACCESS > /dev/null 2>&1&  |
