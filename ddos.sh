@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#felipesi - 2017
+
 if [ $# -eq 0 ]; then
 echo -e  "+================================================================+
 |            AntiFlood Apache by felipesi - 2017              |
